@@ -1,0 +1,13 @@
+/Users/cemgoksu/Projects/OOP/SinavSistemi/bin/Debug/netcoreapp3.1/SinavSistemi.deps.json
+/Users/cemgoksu/Projects/OOP/SinavSistemi/bin/Debug/netcoreapp3.1/SinavSistemi.runtimeconfig.json
+/Users/cemgoksu/Projects/OOP/SinavSistemi/bin/Debug/netcoreapp3.1/SinavSistemi.runtimeconfig.dev.json
+/Users/cemgoksu/Projects/OOP/SinavSistemi/bin/Debug/netcoreapp3.1/SinavSistemi.dll
+/Users/cemgoksu/Projects/OOP/SinavSistemi/bin/Debug/netcoreapp3.1/SinavSistemi.pdb
+/Users/cemgoksu/Projects/OOP/SinavSistemi/obj/Debug/netcoreapp3.1/SinavSistemi.csproj.AssemblyReference.cache
+/Users/cemgoksu/Projects/OOP/SinavSistemi/obj/Debug/netcoreapp3.1/SinavSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemgoksu/Projects/OOP/SinavSistemi/obj/Debug/netcoreapp3.1/SinavSistemi.AssemblyInfoInputs.cache
+/Users/cemgoksu/Projects/OOP/SinavSistemi/obj/Debug/netcoreapp3.1/SinavSistemi.AssemblyInfo.cs
+/Users/cemgoksu/Projects/OOP/SinavSistemi/obj/Debug/netcoreapp3.1/SinavSistemi.csproj.CoreCompileInputs.cache
+/Users/cemgoksu/Projects/OOP/SinavSistemi/obj/Debug/netcoreapp3.1/SinavSistemi.dll
+/Users/cemgoksu/Projects/OOP/SinavSistemi/obj/Debug/netcoreapp3.1/SinavSistemi.pdb
+/Users/cemgoksu/Projects/OOP/SinavSistemi/obj/Debug/netcoreapp3.1/SinavSistemi.genruntimeconfig.cache
