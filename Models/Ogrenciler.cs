@@ -14,10 +14,6 @@ namespace SinavSistemi.Models
         public double Sozlu { get; set; }
         public double Final { get; set; }
 
-
-
-
-        
         double _vize1;
         double _vize2;
         double _sozlu;
